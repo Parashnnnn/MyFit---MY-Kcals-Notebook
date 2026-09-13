@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Top Left Lime-Green Circular Accent Arc -->
+    <path
+        android:strokeColor="#5EEA78"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 33,63 A 28,28 0 0,1 60,26" />
+
+    <!-- Bottom Right Cyan Circular Accent Arc -->
+    <path
+        android:strokeColor="#17C3FF"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 34,70 A 28,28 0 0,0 80,48" />
+
+    <!-- Person Head (Circle) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,38 m -6,0 a 6,6 0 1,1 12,0 a 6,6 0 1,1 -12,0" />
+
+    <!-- Stylized 'M' body with rounded contours -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 38,44
+            C 34,44 33,48 33,52
+            L 33,68
+            C 33,72 37,73 40,71
+            C 41,70 41,63 41,56
+            L 47,63
+            C 49,65 52,65 52,60
+            L 52,50
+            C 52,48 56,48 56,50
+            L 56,60
+            C 56,65 59,65 61,63
+            L 67,56
+            C 67,63 67,70 68,71
+            C 71,73 75,72 75,68
+            L 75,52
+            C 75,48 74,44 70,44
+            C 66,44 63,47 61,50
+            L 54,44
+            L 47,50
+            C 45,47 42,44 38,44 Z" />
+
+    <!-- Center Fork Detail in negative/contrasting space -->
+    <!-- Fork Handle & Tines -->
+    <path
+        android:strokeColor="#0E56FA"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 54,72 L 54,63 M 51,57 L 51,61 C 51,63 57,63 57,61 L 57,57 M 54,57 L 54,61" />
+
+    <!-- Vibrant Green Leaf at Top-Right of M -->
+    <path
+        android:fillColor="#48D265"
+        android:pathData="M 68,34 C 73,34 77,38 77,44 C 71,44 68,40 68,34 Z" />
+    <path
+        android:strokeColor="#36B350"
+        android:strokeWidth="0.8"
+        android:fillColor="#00000000"
+        android:pathData="M 68,44 C 71,41 74,38 77,34" />
+</vector>

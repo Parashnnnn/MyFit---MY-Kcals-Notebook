@@ -1,0 +1,6 @@
+{
+  "name": "MyFit",
+  "description": "AI-powered food and calorie tracker that turns plain English, Hindi, and Hinglish meal descriptions into calories, macros, and daily insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
